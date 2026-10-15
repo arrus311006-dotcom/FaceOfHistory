@@ -1,3 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">HistoryQuizRU</string>
+    <string name="app_name">Исторические личности России</string>
+
+    <string name="login_title">Вход</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Пароль</string>
+    <string name="login_button">Войти</string>
+    <string name="register_button">Зарегистрироваться</string>
+
+    <string name="register_title">Регистрация</string>
+    <string name="register_name_hint">Имя</string>
+    <string name="register_email_hint">Email</string>
+    <string name="register_password_hint">Пароль</string>
+    <string name="register_repeat_password_hint">Повторите пароль</string>
+    <string name="register_submit_button">Создать аккаунт</string>
+
+    <string name="main_menu_greeting">Привет, %1$s</string>
+    <string name="main_menu_tests">Тесты</string>
+    <string name="main_menu_personalities">Исторические личности</string>
+    <string name="main_menu_settings">Настройки</string>
+
+    <string name="tests_epoch_title">Выберите эпоху для теста</string>
+    <string name="personalities_epoch_title">Исторические личности</string>
+    <string name="personalities_list_title">Личности эпохи</string>
+    <string name="personality_detail_title">Историческая личность</string>
+    <string name="settings_title">Настройки</string>
+    <string name="statistics_title">Статистика</string>
+
+    <string name="quiz_question_format">Вопрос %1$d/%2$d</string>
+    <string name="quiz_lives">❤❤❤</string>
+    <string name="quiz_next">Далее</string>
+    <string name="quiz_finished_title">Тест завершён</string>
+    <string name="quiz_result_format">Правильных: %1$d из %2$d</string>
+    <string name="quiz_restart">Начать заново</string>
+    <string name="to_main_menu">В главное меню</string>
+    <string name="quiz_no_questions">В этой эпохе пока недостаточно вопросов для теста.</string>
+
+    <string name="settings_statistics">Статистика</string>
+    <string name="settings_logout">Выйти из аккаунта</string>
+
+    <string name="statistics_summary_format">Всего игр: %1$d\nСредний результат: %2$.1f из %3$d</string>
+    <string name="statistics_empty">Результатов пока нет</string>
+    <string name="result_item_format">%1$s — %2$s из %3$s</string>
+    <string name="result_date_format">%1$s</string>
+
+    <string name="validation_fill_all_fields">Заполните все поля</string>
+    <string name="validation_passwords_mismatch">Пароли не совпадают</string>
+    <string name="validation_email_exists">Пользователь с таким email уже зарегистрирован</string>
+    <string name="validation_invalid_credentials">Неверный email или пароль</string>
+    <string name="validation_registration_error">Не удалось создать аккаунт</string>
+    <string name="validation_login_error">Не удалось выполнить вход</string>
+
+    <string name="epoch_ancient_rus">Древняя Русь</string>
+    <string name="epoch_moscow_kingdom">Московское царство</string>
+    <string name="epoch_russian_empire">Российская империя</string>
+    <string name="epoch_ussr">СССР</string>
+    <string name="epoch_modern_russia">Современная Россия</string>
+
+    <string name="years_unknown">Годы жизни неизвестны</string>
+    <string name="description_unavailable">Описание отсутствует</string>
+    <string name="image_placeholder_description">Изображение исторической личности</string>
 </resources>
