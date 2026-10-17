@@ -59,10 +59,10 @@
         <ImageView
             android:id="@+id/ivPersonality"
             android:layout_width="match_parent"
-            android:layout_height="220dp"
+            android:layout_height="266dp"
             android:layout_marginTop="16dp"
             android:contentDescription="@string/image_placeholder_description"
-            android:scaleType="centerCrop"
+            android:scaleType="fitCenter"
             android:src="@drawable/ic_placeholder" />
 
         <TextView
